@@ -1,0 +1,96 @@
+tid,attr_name,attr_val
+1,ProviderNumber,10018
+1,HospitalName,callahan eye foundation hospital
+1,Address1,1720 university blvd
+1,Address2,empty
+1,Address3,empty
+1,City,birmingham
+1,State,al
+1,ZipCode,35233
+1,CountyName,jefferson
+1,PhoneNumber,2053258100
+1,HospitalType,acute care hospitals
+1,HospitalOwner,voluntary non-profit - private
+1,EmergencyService,yes
+1,Condition,surgical infection prevention
+1,MeasureCode,scip-card-2
+1,MeasureName,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery
+1,Score,empty
+1,Sample,empty
+1,Stateavg,al_scip-card-2
+2,ProviderNumber,10018
+2,HospitalName,callahan eye foundation hospital
+2,Address1,1720 university blvd
+2,Address2,empty
+2,Address3,empty
+2,City,birmingham
+2,State,al
+2,ZipCode,35233
+2,CountyName,jefferson
+2,PhoneNumber,2053258100
+2,HospitalType,acute care hospitals
+2,HospitalOwner,voluntary non-profit - private
+2,EmergencyService,yes
+2,Condition,surgical infection prevention
+2,MeasureCode,scip-inf-1
+2,MeasureName,surgery patients who were given an antibiotic at the right time (within one hour before surgery) to help prevent infection
+2,Score,empty
+2,Sample,empty
+2,Stateavg,al_scip-inf-1
+3,ProviderNumber,10018
+3,HospitalName,callahan eye foundation hospital
+3,Address1,1720 university blvd
+3,Address2,empty
+3,Address3,empty
+3,City,birmingham
+3,State,al
+3,ZipCode,35233
+3,CountyName,jefferson
+3,PhoneNumber,2053258100
+3,HospitalType,acute care hospitals
+3,HospitalOwner,voluntary non-profit - private
+3,EmergencyService,yes
+3,Condition,surgical infection prevention
+3,MeasureCode,scip-inf-2
+3,MeasureName,surgery patients who were given the  right kind  of antibiotic to help prevent infection
+3,Score,empty
+3,Sample,empty
+3,Stateavg,al_scip-inf-2
+4,ProviderNumber,10018
+4,HospitalName,callahan eye foundation hospital
+4,Address1,1720 university blvd
+4,Address2,empty
+4,Address3,empty
+4,City,birmingham
+4,State,al
+4,ZipCode,35233
+4,CountyName,jefferson
+4,PhoneNumber,2053258100
+4,HospitalType,acute care hospitals
+4,HospitalOwner,voluntary non-profit - private
+4,EmergencyService,yes
+4,Condition,surgical infection prevention
+4,MeasureCode,scip-inf-3
+4,MeasureName,surgery patients whose preventive antibiotics were stopped at the right time (within 24 hours after surgery)
+4,Score,empty
+4,Sample,empty
+4,Stateavg,al_scip-inf-3
+5,ProviderNumber,10018
+5,HospitalName,callahan eye foundation hospital
+5,Address1,1720 university blvd
+5,Address2,empty
+5,Address3,empty
+5,City,birmingham
+5,State,al
+5,ZipCode,35233
+5,CountyName,jefferson
+5,PhoneNumber,2053258100
+5,HospitalType,acute care hospitals
+5,HospitalOwner,voluntary non-profit - private
+5,EmergencyService,yes
+5,Condition,surgical infection prevention
+5,MeasureCode,scip-inf-4
+5,MeasureName,all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery
+5,Score,empty
+5,Sample,empty
+5,Stateavg,al_scip-inf-4
