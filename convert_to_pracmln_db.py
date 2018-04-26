@@ -1,8 +1,10 @@
 import pandas
 
 df = pandas.read_csv("holo_hosp_data_dirty_from_mysql.csv")
-f = open("holo_hosp_data_pracmln_db.txt", "w+")
-num_entries = 1005
+num_entries = 1000
+file_name = "holo_pracmln_datasets/hc_data_pracmln_" + str(num_entries) + ".txt" 
+f = open(file_name, "w+") 
+
 
 count = 0
 for index, row in df.iterrows():

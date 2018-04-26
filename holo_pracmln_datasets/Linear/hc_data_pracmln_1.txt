@@ -1,0 +1,6 @@
+ProviderFD(10018, callahan eye foundation hospital, 2053258100, 35233, birmingham, jefferson, al)
+
+MeasureFD(scip-card-2, surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery)
+
+StateFD(0, 35233, birmingham, al)
+CountyFD(0, 35233, birmingham, al,jefferson)
