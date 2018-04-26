@@ -2,7 +2,7 @@ import pandas
 
 df = pandas.read_csv("holo_hosp_data_dirty_from_mysql.csv")
 num_entries = 1000
-file_name = "holo_pracmln_datasets/hc_data_pracmln_" + str(num_entries) + ".txt" 
+file_name = "holo_pracmln_datasets/hc_data_pracmln_" + str(num_entries) + ".db" 
 f = open(file_name, "w+") 
 
 
@@ -14,7 +14,7 @@ for index, row in df.iterrows():
 	f.write(tup)
 	
 	count = count + 1
-	if count >= num_entries:
+	if count >= num_entries: 
 		break
 
 f.write("\n")
